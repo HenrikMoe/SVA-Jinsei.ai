@@ -8,7 +8,7 @@ Solutions powered by Jax Tensorflow and GPT/Grok.
 
 ## SVA Problem:
 
-Automating data transformations for every accounting statement, extended GPT/Grok interface, and on-chain trade gains audits. 
+Automating data transformations for every financial statement, extended GPT/Grok interface, and on-chain trade gains audits. 
 
 # SVA Solutions 
 
